@@ -1,0 +1,12 @@
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\bin\Release\Nitro AR Cheat Manager.exe.config
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\bin\Release\Nitro AR Cheat Manager.exe
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\bin\Release\Nitro AR Cheat Manager.pdb
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro AR Cheat Manager.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro_AR_Cheat_Manager.CheatEditor.resources
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro_AR_Cheat_Manager.Credits.resources
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro_AR_Cheat_Manager.Form1.resources
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro_AR_Cheat_Manager.Properties.Resources.resources
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro AR Cheat Manager.csproj.GenerateResource.cache
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro AR Cheat Manager.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro AR Cheat Manager.exe
+C:\Users\dimit\source\repos\Nitro AR Cheat Manager\obj\Release\Nitro AR Cheat Manager.pdb
